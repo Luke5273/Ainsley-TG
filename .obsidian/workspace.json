@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typical hideout.md",
+                "file": "Typical hideout structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typical hideout.md",
+                "file": "Typical hideout structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typical hideout.md",
+                "file": "Typical hideout structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typical hideout.md"
+                "file": "Typical hideout structure.md"
               }
             }
           }
@@ -169,8 +169,10 @@
   },
   "active": "aeb52d650985f1e5",
   "lastOpenFiles": [
+    "push.bat",
+    "New Text Document.txt",
     "Location hierarchy.md",
-    "Typical hideout.md",
+    "Typical hideout structure.md",
     "Scratchpad.md"
   ]
 }

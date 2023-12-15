@@ -3,7 +3,7 @@
 	- passcode that changes often. fortnightly rotation based on something (talk to aisnley, maybe based on phase of moon?), uses a cypher on an object (think of rfid card with a password on top) which is waved over the grate
 	- sewer tunnel, but the water is actually cycling in a moat like structure around the middl
 	- secret brick  that needs to be pressed to open the hideout in the centre
-- Interior Structure
+- Interior 
 	- Central column
 		- very vertical
 		- lift [Patnoster](https://www.youtube.com/watch?v=Rvvbn7O1nus)
@@ -31,4 +31,7 @@
 			- lift control room
 			- meeting room
 			- *High security rooms can be varied, different hideouts will have [[Location hierarchy|specialties]]*
-- 
+- Exit
+	- The main entrace can be used as an exit
+	- There is also a link to the actual sewer system, but one way
+		- Constantly guarded, only lets people out
