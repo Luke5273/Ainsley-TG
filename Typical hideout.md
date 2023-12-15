@@ -1,0 +1,34 @@
+- Entry
+	- entry through a fake sewer grate, normally near a business that is being offered [[protection]]
+	- passcode that changes often. fortnightly rotation based on something (talk to aisnley, maybe based on phase of moon?), uses a cypher on an object (think of rfid card with a password on top) which is waved over the grate
+	- sewer tunnel, but the water is actually cycling in a moat like structure around the middl
+	- secret brick  that needs to be pressed to open the hideout in the centre
+- Interior Structure
+	- Central column
+		- very vertical
+		- lift [Patnoster](https://www.youtube.com/watch?v=Rvvbn7O1nus)
+		- each floor has a door with a specific animal, denotes security level
+			- same object from before is used to open 
+			- if a wrong level object is used more than once, stone golem creature spawns from surrounding wall
+		- The bottom is the common area, bar/mess-esque in the centre with some offices along the walls. 
+			- Generally lively, places up until now have been completely barren
+	- Individual floors
+		- The floors themselves are varied from place to place
+		- Examples of low security level areas would be
+			- map room
+			- sleeping quarters (for grunts, higher end members tend to stay by themselves)
+			- pantry
+			- general armoury
+			- general library
+		- Examples of medium security
+			- lower offices, more like cubicles
+			- guest rooms
+			- magic armoury
+			- magic library
+		- Examples of high security
+			- Treasury
+			- proper offices
+			- lift control room
+			- meeting room
+			- *High security rooms can be varied, different hideouts will have [[Location hierarchy|specialties]]*
+- 
