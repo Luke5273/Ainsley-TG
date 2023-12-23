@@ -1,5 +1,11 @@
 - Is pretty standardised, devils and all that
-- Used as the general hideout, seen as 
+- Used as the general hideout
+- seen as smallest unit, mini doesnt really have any freedom while these folks do
+- Normally about 30 people staying there full time
+	- guards
+	- cleaning
+	- cook
+	- 
 
 - Entry
 	- entry through a fake sewer grate, normally near a business that is being offered [[protection]]
@@ -35,6 +41,6 @@
 			- meeting room
 			- *High security rooms can be varied, different hideouts will have [[Location hierarchy|specialties]]*
 - Exit
-	- The main entrace can be used as an exit
+	- The main entrance can be used as an exit
 	- There is also a link to the actual sewer system, but one way
 		- Constantly guarded, only lets people out
