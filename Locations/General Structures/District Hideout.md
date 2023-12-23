@@ -1,7 +1,7 @@
 - Entry
 	- entry through a fake sewer grate, normally near a business that is being offered [[protection]]
-	- passcode that changes often. fortnightly rotation based on something (talk to aisnley, maybe based on phase of moon?), uses a cypher on an object (think of rfid card with a password on top) which is waved over the grate
-	- sewer tunnel, but the water is actually cycling in a moat like structure around the middl
+	- passcode that changes often. fortnightly rotation based on something (talk to Ainsley, maybe based on phase of moon?), uses a cypher on an object (think of rfid card with a password on top) which is waved over the grate
+	- sewer tunnel, but the water is actually cycling in a moat like structure around the middle
 	- secret brick  that needs to be pressed to open the hideout in the centre
 - Interior 
 	- Central column

@@ -1,0 +1,19 @@
+- Very varied, could be really anything
+	- Shed behind a general store
+	- basement of a pub
+	- closet in a hotel
+- Mainly used as a store house or intermediary meeting location
+	- Not as secure/secretive as the districts, hence is used for more 
+
+ - Entry
+	 - Much like the district hideouts, entry is through a gate or door
+	 - Password changes in similar rotation to the district hideout
+		- Maybe each uses the same cycle, but with a different offset?
+		- Or a specific subset
+			- Could make for an interesting plot point, trying to gain access to the district hideout by stealing the lists from the less secure mini hideouts
+	- Apart from that, each is unique
+- Interior
+	- Often just a single room
+	- Not much use for more than that
+- Exit
+	- Same as entry
