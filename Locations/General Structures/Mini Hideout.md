@@ -5,6 +5,7 @@
 - Mainly used as a store house or intermediary meeting location
 	- Not as secure/secretive as the districts, hence is used for more explicit interactions
 	- Only houses a few grunts, local security for businesses that double as guards for stored items
+- All within about 4 hours of the district hideout
 
  - Entry
 	 - Much like the district hideouts, entry is through a gate or door
