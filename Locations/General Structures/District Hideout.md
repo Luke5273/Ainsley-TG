@@ -24,6 +24,7 @@
 		- The bottom is the common area, bar/mess-esque in the centre with some offices along the walls. 
 			- Generally lively, places up until now have been completely barren
 		- Bottom and top floors are about 4000sqft
+		- Middle is about 1700sqft
 	- Individual floors
 		- The floors themselves are varied from place to place
 		- Examples of low security level areas would be
