@@ -1,11 +1,13 @@
 - Is pretty standardised, devils and all that
 - Used as the general hideout
 - seen as smallest unit, mini doesnt really have any freedom while these folks do
-- Normally about 30 people staying there full time
+- Normally about 30 people staying there employed full time
 	- guards
+		- 3x8 hour shifts
 	- cleaning
-	- cook
-	- 
+		- 2xweek
+	- cook/servers
+	- specific to specialties
 
 - Entry
 	- entry through a fake sewer grate, normally near a business that is being offered [[protection]]
@@ -21,6 +23,7 @@
 			- if a wrong level object is used more than once, stone golem creature spawns from surrounding wall
 		- The bottom is the common area, bar/mess-esque in the centre with some offices along the walls. 
 			- Generally lively, places up until now have been completely barren
+		- Bottom and top floors are about 4000sqft
 	- Individual floors
 		- The floors themselves are varied from place to place
 		- Examples of low security level areas would be
