@@ -3,7 +3,8 @@
 	- basement of a pub
 	- closet in a hotel
 - Mainly used as a store house or intermediary meeting location
-	- Not as secure/secretive as the districts, hence is used for more 
+	- Not as secure/secretive as the districts, hence is used for more explicit interactions
+	- Only houses a few grunts, local security for businesses that double as guards for stored items
 
  - Entry
 	 - Much like the district hideouts, entry is through a gate or door
