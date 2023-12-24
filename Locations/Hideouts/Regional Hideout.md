@@ -1,0 +1,17 @@
+- Max autonomy from main hideouts
+- Also very standardised
+- Tends to expand horizontally as opposed to vertically, like a college campus kinda, unlike the district hideout
+- Not very hidden
+	- Disguised as a bank, named \<fill in later\>
+- Houses a department for all the major specialties, eg
+	- Money lending (payday loans esque)
+	- Drug dealing 
+	- protection
+	- etc etc
+- Mainly used as a administrative building, as the district hideouts have autonomy over their own domains
+	- Major book-keepings (obv tax evasion from the gov, but interiorly very important)
+- also an actual bank
+	- good, but has some pretty predatory policies
+
+- Outer
+	- Walled, about 20 ft tall with 
