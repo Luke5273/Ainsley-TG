@@ -13,5 +13,9 @@
 - also an actual bank
 	- good, but has some pretty predatory policies
 
-- Outer
-	- Walled, about 20 ft tall with 
+- Outer 
+	- Walled, cobble stone
+		- varied piece size, but avg is about 3ft x 2ft
+		- Colour changes from region to region. Specific to the local geology of the area
+			- Unofficial names come from the stone used 
+	- 8 meters tall with spikes on top (short spikes, 5 inch)
