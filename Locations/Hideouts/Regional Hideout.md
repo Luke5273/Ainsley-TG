@@ -18,4 +18,10 @@
 		- varied piece size, but avg is about 3ft x 2ft
 		- Colour changes from region to region. Specific to the local geology of the area
 			- Unofficial names come from the stone used 
-	- 8 meters tall with spikes on top (short spikes, 5 inch)
+	- 8 meters tall with spikes on top (short spikes, 5 inch), also traps
+- Entry building
+	- Large opening in wall, steps up to a porch
+	- Glass door going into the floor office
+	- Bank style, many tellers and all
+		- If you give the password to the tellers, they give a key (one day, breaks in lock at the end of the day when you leave) that opens to the general campus
+	- Actual banking goes on here, 
